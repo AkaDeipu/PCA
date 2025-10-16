@@ -1,0 +1,1 @@
+This notebook demonstrates the use of Principal Component Analysis (PCA) for dimensionality reduction on the "wine.csv" dataset. It includes data importing, EDA with box plots, and data preprocessing. The notebook then applies PCA to reduce the number of features while retaining most of the variance and subsequently uses clustering algorithms on the transformed data.
